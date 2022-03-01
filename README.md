@@ -1,16 +1,24 @@
 # Conjoint-Analysis-For-a-TV-Market
 
-A Step-by-step tutorial of how to do the Conjoint Analysis based on R
+## Objective:
 
-(1) Establish Market Segmentation
+Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Preferences and their Willingness to Pay for each attribute of product, then to calculate the market share based on customer preferences. Eventually, calculating the Optimal Price of new product.
 
-(2) Calculate Market Share
+## Data Source:
 
-(3) Determine the Optimal Price for the new product
+(1) Synthetic TV products information data. E.g.: Screen Size, Resolution, Price, etc.
 
-The detailed introduction please see from my blog:
+(2) Surveyed preference data for TV products.
+
+## Structure:
+
+(1) Measured Customer Preferences
+
+(2) Calculated Market Share
+
+(3) Determined the Optimal Price for the new product to gain the maximum profit
+
+## Detailed Analyze Process:
+
+If you are interested in more detailed analyze process, please see from my blog:
 https://medium.com/@neoncqbu/conjoint-analysis-step-by-step-in-r-ebc860093421
-
-Please leave your comment to make me do it better! 
-
-Thank you!!!
