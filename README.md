@@ -18,7 +18,7 @@ Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Prefere
 
 (3) Determined the Optimal Price for the new product to gain the maximum profit
 
-## Detailed Analyze Process:
+## Detailed Analysis:
 
 If you are interested in more detailed analyze process, please see from my blog:
 https://medium.com/@neoncqbu/conjoint-analysis-step-by-step-in-r-ebc860093421
