@@ -20,6 +20,6 @@ Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Prefere
 
 ## Detailed Analysis:
 
-If you are interested in more detailed analyze process, please see from my blog:
+If you are interested in more detailed analysis process, please see from my blog:
 
 https://medium.com/@neoncqbu/conjoint-analysis-step-by-step-in-r-ebc860093421
