@@ -12,11 +12,11 @@ Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Prefere
 
 ## Structure:
 
-(1) Measured Customer Preferences
+(1) Measure Customer Preferences.
 
-(2) Calculated Market Share
+(2) Calculate Market Share.
 
-(3) Determined the Optimal Price for the new product to gain the maximum profit
+(3) Determine the Optimal Price for the new product to gain the maximum profit.
 
 ## Detailed Analysis:
 
