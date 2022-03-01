@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Preferences and their Willingness to Pay for each attribute of product, then to calculate the market share based on customer preferences. Eventually, calculating the Optimal Price of new product.
+Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Preferences and their Willingness to Pay for each attribute of product, then calculating the market share based on customer preferences. Eventually, calculating the Optimal Price of new product.
 
 ## Data Source:
 
