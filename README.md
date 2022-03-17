@@ -1,4 +1,4 @@
-# Conjoint-Analysis-For-a-TV-Market
+# Conjoint Analysis For a TV Market
 
 ## Objective:
 
