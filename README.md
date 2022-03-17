@@ -6,17 +6,17 @@ Using R to conduct a Conjoint Analysis for a TV Market to learn Customer Prefere
 
 ## Data Source:
 
-(1) Synthetic TV products information data. E.g.: Screen Size, Resolution, Price, etc.
+- Synthetic TV products information data. E.g.: Screen Size, Resolution, Price, etc.
 
-(2) Surveyed preference data for TV products.
+- Surveyed preference data for TV products.
 
 ## Structure:
 
-(1) Measure Customer Preferences.
+- Measure Customer Preferences.
 
-(2) Calculate Market Share.
+- Calculate Market Share.
 
-(3) Determine the Optimal Price for the new product to gain the maximum profit.
+- Determine the Optimal Price for the new product to gain the maximum profit.
 
 ## Detailed Analysis:
 
